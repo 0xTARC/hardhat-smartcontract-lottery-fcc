@@ -3,13 +3,14 @@
 .vscode
 
 # hardhat
-artifacts
+artifacts/build-info
 cache
 deployments
 node_modules
 coverage
 coverage.json
 typechain
+types
 
 # don't push the environment vars!
 .env
